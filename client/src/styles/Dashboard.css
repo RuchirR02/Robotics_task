@@ -41,3 +41,18 @@
     top: 20px; /* Adjust as needed */
     left: 20px; /* Adjust as needed */
   }
+
+  .overview-table {
+    width: 500px;
+    height: 400px;
+    position: relative;
+    padding: 20px;
+    overflow: auto; 
+  }
+  
+  .table-container {
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+    
+  }

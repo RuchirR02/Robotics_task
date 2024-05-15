@@ -1,4 +1,3 @@
-// Dashboard.js
 
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
@@ -33,7 +32,7 @@ function Dashboard() {
         <div className="card-container">
           {data.map((item, index) => (
             <div key={index} className="robot-card">
-              <h3>ID: {item._id}</h3>
+              <h4>Robo ID: {item._id}</h4>
               <MyChartComponent batteryLevel={item.battery_level} />
               <p>Status: {item.status}</p>
               <table>
