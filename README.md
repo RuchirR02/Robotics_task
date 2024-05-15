@@ -19,3 +19,12 @@ python app.py
 ## Step 4: Visit http://localhost:3000 to access the dashboard
 
 I have also implemented the api integration using CORS. The data from the database will be updated in real time locally at http://localhost:5000/api/data.
+
+## Results
+![Image 5](https://github.com/RuchirR02/Robotics_task/blob/main/Screenshot%20(600).png?raw=true)
+![Image 4](https://github.com/RuchirR02/Robotics_task/blob/main/Screenshot%20(601).png?raw=true)
+![Image 3](https://github.com/RuchirR02/Robotics_task/blob/main/hom.jpg?raw=true)
+![Image 2](https://github.com/RuchirR02/Robotics_task/blob/main/image.png?raw=true)
+![Image 1](https://github.com/RuchirR02/Robotics_task/blob/main/Screenshot%20(602).png?raw=true)
+
+
